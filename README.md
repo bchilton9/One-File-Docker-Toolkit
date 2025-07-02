@@ -32,7 +32,7 @@ A modern, beginner-friendly visual editor and converter for Docker Compose and `
 
 ## 🛠 Built By
 
-[ChilSoft](https://chilsoft.com)
+[ChilSoft.com](https://chilsoft.com)
 
 This tool is open, simple, and designed for both beginners and pros who want to generate Docker configs quickly and visually.
 
