@@ -251,11 +251,16 @@
   </main>
   <footer>
     <a href="https://chilsoft.com" target="_blank">🐳 Docker Toolkit by ChilSoft</a>
+    
+    <p>&copy; <span id="year"></span> ChilSoft. All rights reserved.</p>
+  <p><b>Disclaimer:</b> Chilsoft/Docker Toolkit is provided for informational purposes only. Use any code, tools, or instructions at your own risk. We are not responsible for any damage to your device, data loss, or unintended consequences. Always proceed with caution.</p>
+    
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
   <script>
     let services = [];
+ document.getElementById("year").textContent = new Date().getFullYear();
 
     function toggleTheme() {
       document.body.classList.toggle('dark');
