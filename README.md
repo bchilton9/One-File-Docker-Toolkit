@@ -28,14 +28,27 @@ A modern, beginner-friendly visual editor and converter for Docker Compose and `
 3. **Edit** visually using the form UI
 4. **Copy** or **download** the generated output as needed
 
----
+—
+
+This tool is open, simple, and designed for both beginners and pros who want to generate Docker configs quickly and visually.
+
+—
 
 ## 🛠 Built By
 
 [ChilSoft.com](https://chilsoft.com)
 
-This tool is open, simple, and designed for both beginners and pros who want to generate Docker configs quickly and visually.
+—
 
-© 2025 ChilSoft. All rights reserved.
+## ⚠️ Disclaimer
 
-Disclaimer: Chilsoft/Docker Toolkit is provided for informational purposes only. Use any code, tools, or instructions at your own risk. We are not responsible for any damage to your device, data loss, or unintended consequences. Always proceed with caution.
+This site and its contents are provided for informational and educational purposes only.
+
+Use any code, tools, or instructions at your own risk.  
+We are **not responsible** for any damage to your device, data loss, or unintended consequences.
+
+Always proceed with care — and make backups.
+
+—
+
+© **2025 ChilSoft**. All rights reserved.
