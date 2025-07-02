@@ -177,6 +177,20 @@
       color: inherit;
       text-decoration: none;
     }
+    .instructions {
+  background: var(--bg2);
+  padding: 1em;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+.instructions h2 {
+  margin-top: 0;
+}
+.instructions ul {
+  margin: 0;
+  padding-left: 20px;
+}
   </style>
 </head>
 <body>
@@ -185,6 +199,19 @@
     <button class="theme-btn" onclick="toggleTheme()">🌙</button>
   </header>
   <main>
+  <section class="instructions">
+  <h2>🐳 Docker Toolkit Instructions</h2>
+  <p>
+    Paste a <strong>docker run</strong> command or a <strong>docker-compose.yml</strong> file in the input box below.<br>
+    The tool will automatically detect the format and convert it for you.
+  </p>
+  <ul>
+    <li>Use the form editor to visually add/edit services, ports, volumes, env vars, and more</li>
+    <li>Click <strong>+ Add Service</strong> to start from scratch or <strong>paste</strong> to import existing configs</li>
+    <li>Use the copy or download buttons to export your configuration</li>
+    <li>Everything works offline – save this file to your own server or use it locally</li>
+  </ul>
+</section>
     <div class="section">
       <label>Paste or Upload Docker Configuration</label>
       <div class="desc">Paste a <strong>docker run</strong> command or a <strong>docker-compose.yml</strong> here.</div>
@@ -375,7 +402,7 @@
       });
 
       yamlOut.value = jsyaml.dump(doc);
-      runOut.value = runLines.join('\n');
+      runOut.value = runLines.join('\n\n');
     }
 
     function handlePaste() {

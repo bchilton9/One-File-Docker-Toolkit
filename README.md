@@ -2,7 +2,7 @@
 
 A modern, beginner-friendly visual editor and converter for Docker Compose and `docker run` commands — all in a single HTML file.
 
-🔗 **Live Demo**: [http://docker.chilsoft.com](http://docker.chilsoft.com)
+🔗 **Live Demo**: [https://docker.chilsoft.com](https://docker.chilsoft.com)
 
 ---
 
