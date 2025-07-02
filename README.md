@@ -35,3 +35,7 @@ A modern, beginner-friendly visual editor and converter for Docker Compose and `
 [ChilSoft](https://chilsoft.com)
 
 This tool is open, simple, and designed for both beginners and pros who want to generate Docker configs quickly and visually.
+
+© 2025 ChilSoft. All rights reserved.
+
+Disclaimer: Chilsoft/Docker Toolkit is provided for informational purposes only. Use any code, tools, or instructions at your own risk. We are not responsible for any damage to your device, data loss, or unintended consequences. Always proceed with caution.
