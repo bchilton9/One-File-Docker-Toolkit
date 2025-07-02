@@ -223,15 +223,7 @@
     <div class="section">
       <label for="composeVersion">Compose Version</label>
       <div class="desc">Choose the Compose version for the YAML file.</div>
-      <select id="composeVersion" onchange="updateOutput()">
-      <option>1</option>
-      <option>2</option>
-        <option>3</option>
-        <option>3.7</option>
-        <option selected>3.8</option>
-        <option>3.9</option>
-        <option>3.10</option>
-      </select>
+<input id="composeVersion" type="text" value="3.8" oninput="updateOutput()">
     </div>
 		    <div class="section" id="servicesSection">
       <h3>Services</h3>
