@@ -30,9 +30,9 @@ This tool is open, simple, and designed for both beginners and pros who want to 
 
 This toolkit is provided as-is under the MIT License. No affiliation with Docker.
 
-## 🛠 Built By
+## 🛠 Made By
 
-[ChilSoft.com](https://chilsoft.com)
+[ChilSoft.com](https://chilsoft.com) with caffeine and questionable commits.
 
 ## ⚠️ Disclaimer
 
