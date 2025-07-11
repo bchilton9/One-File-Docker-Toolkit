@@ -1,3 +1,3 @@
-remote_theme: bchilton9/chilsoft.github.io
+remote_theme: bchilton9/chilsoft-theme
 plugins:
   - jekyll-remote-theme
