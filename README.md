@@ -4,6 +4,8 @@ A modern, beginner-friendly visual editor and converter for Docker Compose and `
 
 🔗 **Live Demo**: [https://docker.chilsoft.com](https://docker.chilsoft.com)
 
+___
+
 ## 💡 Features
 
 - ✅ **One File, No Setup** – Just open `index.html` in your browser or host it on your own server
@@ -14,6 +16,8 @@ A modern, beginner-friendly visual editor and converter for Docker Compose and `
 - 📱 **Mobile-Friendly** – Designed to work seamlessly on iOS and other mobile devices
 - 📋 **iOS-Compatible Copy Buttons** – Copy your generated Compose or Run output with one tap
 - 💾 **YAML Download** – Export your compose configuration directly as `docker-compose.yml`
+
+___
 
 ## 🚀 How to Use
 
@@ -26,13 +30,19 @@ A modern, beginner-friendly visual editor and converter for Docker Compose and `
 
 This tool is open, simple, and designed for both beginners and pros who want to generate Docker configs quickly and visually.
 
+___
+
 ## 🧾 License
 
 This toolkit is provided as-is under the MIT License. No affiliation with Docker.
 
+___
+
 ## 🛠 Made By
 
 [ChilSoft.com](https://chilsoft.com) with caffeine and questionable commits.
+
+___
 
 ## ⚠️ Disclaimer
 
