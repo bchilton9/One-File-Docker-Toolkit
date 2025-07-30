@@ -1,3 +1,8 @@
+![License](https://img.shields.io/github/license/bchilton9/wings-cert-copy-from-npm)
+![Last Commit](https://img.shields.io/github/last-commit/bchilton9/wings-cert-copy-from-npm)
+![Built with HTML](https://img.shields.io/badge/Built%20with-HTML-e34c26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-f7df1e?logo=javascript&logoColor=black)
+
 # 🐳 Docker Toolkit
 
 A modern, beginner-friendly visual editor and converter for Docker Compose and `docker run` commands — all in a single HTML file.
